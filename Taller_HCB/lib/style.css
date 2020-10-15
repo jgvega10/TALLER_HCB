@@ -1,0 +1,22 @@
+/* Add your styles here */
+h2{
+  color: cornflowerblue;
+  text-align: center;
+  margin-left: 190px;
+}
+
+div{
+  display:inline-block;
+}
+
+img
+{
+  display: block;
+  margin-left: 100px;
+  width: 100%;
+  
+}
+
+body{
+  background-color: yellow;
+}
